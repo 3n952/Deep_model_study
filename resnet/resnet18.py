@@ -1,4 +1,4 @@
-# tensorflow로 renset-18 구현하기
+# tensorflow로 renset-18 구현하기.
 
 from tensorflow.keras import layers, Model
 
